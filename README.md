@@ -1,5 +1,5 @@
 # 🐍 My Python Projects Repository
-Welcome to my personal repository where I collect and store Python projects, scripts, and code snippets I created in my retraining as an [IT specialist in data and process analysis (IHK)][https://www.bbq.de/umschulung/koeln/fachinformatiker-datenanalyse-und-prozessanalyse-data-science/]. It is a showcase of my learning, experiments and created utility tools using Python during that time.
+Welcome to my personal repository where I collect and store Python projects, scripts, and code snippets I created in my retraining as an [IT specialist in data and process analysis (IHK)](https://www.bbq.de/umschulung/koeln/fachinformatiker-datenanalyse-und-prozessanalyse-data-science/). It is a showcase of my learning, experiments and created utility tools using Python during that time.
 
 ## 🌟 Features & Highlights  
 This repository contains a diverse range of Python projects, which may include:
